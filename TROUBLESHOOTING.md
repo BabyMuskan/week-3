@@ -58,4 +58,4 @@
 * *Error Message:* Database connection error: querySrv ENOTFOUND
 * *Resolution:* Connected to MongoDB Atlas Cloud Database successfully.
 * *Screenshot:*
-![MongoDB Connected](screenshot/server_connected.png)
+![MongoDB Connected](server_connected.png)
